@@ -1,5 +1,8 @@
 _repo: Great-captains-b-A-course-of-six-lectures-showing-the-influence-on-the-art-of-war-of-the-camp__71713
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71713-h/images/cover.jpg
 creator:
   author:
     agent_name: Dodge, Theodore Ayrault
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1847
     wikipedia: https://en.wikipedia.org/wiki/Theodore_Ayrault_Dodge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71713#Great-captains-b-A-course-of-six-lectures-showing-the-influence-on-the-art-of-war-of-the-camp_
 gutenberg_issued: '2023-09-24'
 identifiers:
   gutenberg: '71713'
